@@ -282,18 +282,18 @@
   <div class="row slideanim">
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-leaf logo-small"></span>
-      <h4>GREEN</h4>
-      <p>Lorem ipsum dolor sit amet..</p>
+      <h4>Financial Reports</h4>
+      <p>check your financial reports every day</p>
     </div>
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-certificate logo-small"></span>
-      <h4><a href="http://esprit-libre.tk/index.php/2017/02/05/formation-git-17/" >Education</a></h4>
-      <p>Learn more about our classes</p>
+      <h4>CERTIFIED</h4>
+      <p>Lorem ipsum dolor sit amet..</p>
     </div>
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-wrench logo-small"></span>
-      <h4 style="color:#303030;">HARD WORK</h4>
-      <p>Lorem ipsum dolor sit amet..</p>
+      <h4 style="color:#303030;">Administration</h4>
+      <p>check your financial reports every day</p>
     </div>
   </div>
 </div>
